@@ -1,5 +1,5 @@
 # The Cardiffian Tome
-
+Developed by my team as part of our bid to make a text based python game
 The Cardiffian Tome is a text-based adventure game inspired by classic adventure games. Players navigate through various rooms, interact with objects, and execute commands to progress through the game. This game was Developed by me and my team as part of our bid to build a text based game with python.
 
 ## Table of Contents
